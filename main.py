@@ -1,0 +1,8 @@
+x: int = int (input('give me a number'))
+print (x)
+y: int = int (input('give me a number'))
+print (y)
+z: int = int (input('give me a number'))
+print (z)
+print(x+y+z)
+print(x*y*z)
